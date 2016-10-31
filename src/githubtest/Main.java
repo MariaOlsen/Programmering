@@ -20,6 +20,7 @@ public class Main {
         System.out.println("Yes");
         System.out.println("hey");
         
+        int test = 30;
     }
     
 }
