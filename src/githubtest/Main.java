@@ -19,7 +19,7 @@ public class Main {
         System.out.println("BumBum");
         System.out.println("Yes");
         System.out.println("hey");
-        
+        int pow = 10;
         int test = 30;
     }
     
